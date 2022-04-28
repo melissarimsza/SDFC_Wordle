@@ -1,6 +1,6 @@
 # SDFC_Wordle
 
-<img  src="background_maroon-01.png" border="0">
+<img  src="background_maroon-01.png" border="0" width="500">
 
 ## How I did it
 - 1. Build the game board
